@@ -1,0 +1,18 @@
+td.button.button-delete{
+    width: 50px !important;
+}
+td.button.button-update{
+    width: 110px !important;
+}
+th.button.button-create{
+    padding-top: 10px !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    margin: 0px;
+}
+td{
+    text-align: center;
+    width: 20%;
+    padding: 0; 
+}
+
